@@ -4,7 +4,7 @@ using namespace System;
 using namespace std; 
  
 int main(){ 
-cout<<"Hola"   <<endl; 
+cout<<"Hola por"   <<endl; 
   _getch(); 
   return 0 
 }
